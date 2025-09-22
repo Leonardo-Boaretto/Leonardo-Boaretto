@@ -5,9 +5,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Boaretto&layout=compact&border_color=39FF14&bg_color=0D1117&title_color=39FF14&text_color=39FF14" style="border-radius: 10px;" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react,nodejs,git,github" />
-</p>
+
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
@@ -32,4 +30,3 @@ Além do código, sou escritor e fã da cultura geek e de RPG. Quando assumo um 
   
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
