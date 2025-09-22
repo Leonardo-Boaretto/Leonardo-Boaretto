@@ -1,8 +1,6 @@
-<h1 align="center">👋 Oi, eu sou o Leonardo Lazarin Boareto</h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Leonardo+Lazarin+Boareto;Desenvolvedor+Full-Stack;Transformando+ideias+em+código" alt="Typing SVG" /></h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+Full-Stack;Criatividade+é+meu+superpoder;Sempre+aprendendo+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Boaretto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=39FF14&border_color=39FF14" style="border-radius: 10px;" />
